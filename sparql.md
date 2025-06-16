@@ -133,8 +133,8 @@ WHERE {
 ```
 
 ### ✅ Results
-Thanks to this query, we found that the Abbazia di Nonantola is also known as "Abbazia di San Silvestro".
-This alternative name is highly relevant and valuable for enriching its semantic description in the knowledge graph.
+Thanks to this query, we found that the Abbazia di Nonantola may also be known as "Abbazia di San Silvestro".
+This possible alternative name is highly relevant and valuable for enriching its semantic description in the knowledge graph.
 
 ### 🖼️ Screenshot of Results
 
@@ -186,7 +186,7 @@ WHERE {
 ```
 
 ### ✅ Results
-The query returned the same two IRIs found in Query 1, which means that "Abbazia di San Silvestro" does not exist as a Cultural Property (cp), only as a Subject (as seen in Query 3). This confirms that ArCo represents only one cultural property under the IRI for Abbazia di Nonantola.
+The query returned the same two IRIs found in Query 1, which means that "Abbazia di San Silvestro" does not exist as a Cultural Property (cp), only as a Subject (as seen in Query 3). 
 
 ---
 
